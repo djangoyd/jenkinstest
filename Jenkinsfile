@@ -1,7 +1,7 @@
 pipeline{
     ageny ageny{
         stages{
-            stage("Build){
+            stage("Build"){
                 steps{
                     echo "Here is build step"
                 }
